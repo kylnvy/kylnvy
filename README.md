@@ -52,13 +52,13 @@ BSIT student and aspiring QA intern. I find bugs, write clear test cases and bug
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kylnvy&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylnvy&layout=compact&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylnvy&layout=compact&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=kylnvy&bg_color=00000000&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true&years=2023,2024,2025,2026" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=kylnvy&bg_color=00000000&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true&years=2021,2022,2023,2024,2025,2026" alt="yearly activity graph" />
 </p>
 
 ### 💭 Dev Quote
